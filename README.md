@@ -1,5 +1,5 @@
 
-### A somewhat good formatting template thingy
+### A somewhat good formatting template thingy.
 
 **Installation**
 - Put into your project root
